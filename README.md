@@ -1,5 +1,5 @@
 # Rightful-swift
-We are a portion of emptiness contemplating the universe
+We are sentient emptiness
 
 ![buh](https://github.com/nicolasbaez/Rightful-swift/blob/main/xp059.gif)
 ```javascript
